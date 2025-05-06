@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Welcome!+I'm+Adarsh.;സ്വാഗതം!+ഞാൻ+അദർശ്.;ようこそ!+私はアダーシュです。" alt="Welcome animation" height=250 />
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="5" />
+</p>
+
 <h3 align="center">I build scalable APIs & web apps — efficient, clean, and modern.</h3>
 
 ---
