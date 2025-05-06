@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Adarsh</h1>
+<h3 align="center">I build scalable APIs & web apps — efficient, clean, and modern.</h3>
 
-<!--
-**Adarshspidey/Adarshspidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshaj123&show_icons=true&theme=radical" alt="adarshaj123's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshaj123&theme=radical" alt="adarshaj123's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshaj123&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠️ What I Do
+
+- 💡 Build scalable REST APIs using Node.js, Express.js & PostgreSQL/MongoDB
+- ⚛️ Create dynamic frontend apps with React & Next.js (TypeScript-ready)
+- 🚀 Optimize performance for web applications
+- ☁️ Build full-stack projects with clean architecture and secure data handling
+
+---
+
+### 📬 Get in Touch
+
+- 📧 [adarshunni3@gmail.com](mailto:adarshunni3@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adarshunni/) • [Portfolio](https://adarshunni3.wixstudio.io/portfolio)
+
+---
+
+⭐ If you like my work, consider giving a star to one of my repos!
