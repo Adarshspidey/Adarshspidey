@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 40px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Welcome!+I'm+Adarsh.;സ്വാഗതം!+ഞാൻ+അദർശ്+ആണ്.;ようこそ!+私はアダーシュです。" alt="Welcome animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Welcome!+I'm+Adarsh.;സ്വാഗതം!+ഞാൻ+അദർശ്.;ようこそ!+私はアダーシュです。" alt="Welcome animation" height=150 />
 </div>
 <h3 align="center">I build scalable APIs & web apps — efficient, clean, and modern.</h3>
 
