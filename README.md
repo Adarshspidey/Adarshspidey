@@ -23,15 +23,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshaj123&show_icons=true&theme=radical" alt="adarshaj123's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarshspidey&show_icons=true&theme=radical" alt="Adarshspidey's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshaj123&theme=radical" alt="adarshaj123's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshspidey&theme=radical" alt="Adarshspidey's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshaj123&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshspidey&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
