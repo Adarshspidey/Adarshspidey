@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="100%" height="10" />
+  <img src="https://media.giphy.com/media/3ohhwf34cGDoFFhRfy/giphy.gif" width="100%" height="6" />
 </p>
 
 <h3 align="center">I build scalable APIs & web apps — efficient, clean, and modern.</h3>
