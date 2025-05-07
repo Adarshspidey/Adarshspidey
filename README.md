@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
@@ -40,7 +41,7 @@
 ### 🛠️ What I Do
 
 - 💡 Build scalable REST APIs using Node.js, Express.js & PostgreSQL/MongoDB
-- ⚛️ Create dynamic frontend apps with React & Next.js (TypeScript-ready)
+- ⚛️ Create dynamic frontend apps with React, Next.js & React Native (TypeScript-ready)
 - 🚀 Optimize performance for web applications
 - ☁️ Build full-stack projects with clean architecture and secure data handling
 
