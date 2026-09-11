@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </p>
 
 ---
@@ -25,15 +26,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarshspidey&show_icons=true&theme=radical" alt="Adarshspidey's GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Adarshspidey&show_icons=true&theme=radical" alt="Adarshspidey's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshspidey&theme=radical" alt="Adarshspidey's GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Adarshspidey&theme=radical" alt="Adarshspidey's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshspidey&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Adarshspidey&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -44,6 +45,7 @@
 - ⚛️ Create dynamic frontend apps with React, Next.js & React Native (TypeScript-ready)
 - 🚀 Optimize performance for web applications
 - ☁️ Build full-stack projects with clean architecture and secure data handling
+- 🎮 Create games and interactive experiences with Unreal Engine
 
 ---
 
