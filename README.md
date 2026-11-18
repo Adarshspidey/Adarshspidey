@@ -58,7 +58,7 @@
 ### 📬 Get in Touch
 
 - 📧 [adarshunni3@gmail.com](mailto:adarshunni3@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adarshunni/) • [Portfolio](https://adarshunni3.wixstudio.io/portfolio)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adarshunni/) • [Portfolio](https://adarshspidey.github.io/adarsh-portfolio/)
 
 ---
 
